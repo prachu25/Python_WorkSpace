@@ -1,0 +1,201 @@
+Driver_ID,Name,Age,Country,Team,Championships,Races,Wins,Podiums,Career_Points,Fastest_Laps,Pole_Positions,Salary_Million_USD
+1,Mick Magnussen,21,Mexico,Haas,3,315,93,147,3791,52,81,43.4
+2,Max Sargeant,29,France,Williams,4,184,30,36,3322,2,55,37.9
+3,Lewis Piastri,20,Australia,Williams,6,237,96,171,882,25,63,43.8
+4,George Sargeant,33,Italy,Red Bull,6,232,80,140,465,55,10,57.4
+5,Kevin Sargeant,37,Italy,Mercedes,6,336,48,63,4277,16,10,55.7
+6,Valtteri Hamilton,21,Spain,Ferrari,3,231,81,128,2503,13,61,6.9
+7,Mick Alonso,42,Spain,Aston Martin,0,19,70,146,1710,26,69,2.1
+8,Esteban Perez,40,UK,McLaren,6,196,80,110,4601,33,78,54.9
+9,Yuki Bottas,40,Spain,Haas,5,260,117,164,3544,56,13,16.1
+10,Kevin Gasly,21,China,Alpine,6,42,32,42,678,17,87,45.0
+11,Lewis Albon,25,Monaco,Alpine,3,16,105,132,1594,48,58,34.4
+12,Daniel Russell,19,Australia,Haas,2,270,71,150,4657,17,22,1.7
+13,Daniel Gasly,35,Spain,Ferrari,1,75,26,100,1600,22,77,50.3
+14,Charles Gasly,37,Canada,RB,5,307,69,101,1725,3,76,59.0
+15,Zhou Verstappen,20,Spain,Aston Martin,1,90,79,94,3910,22,65,51.8
+16,Fernando Sainz,29,Spain,McLaren,6,246,31,79,1793,17,59,2.9
+17,Pierre Guanyu,22,Spain,Ferrari,3,344,53,102,625,45,37,9.7
+18,Carlos Sainz,26,Spain,McLaren,5,261,87,153,3257,53,46,36.9
+19,Zhou Hulkenberg,39,Canada,RB,5,93,38,50,2868,35,13,44.2
+20,Fernando Albon,41,Finland,Red Bull,7,261,33,75,3966,30,67,2.1
+21,Sergio Magnussen,30,UK,Mercedes,3,312,90,138,445,55,93,7.4
+22,Logan Verstappen,32,Netherlands,Williams,5,94,114,124,2896,35,57,2.9
+23,Mick Norris,27,Monaco,RB,2,283,101,109,3940,53,64,14.9
+24,Esteban Piastri,21,Brazil,Alpine,3,265,80,98,967,15,68,2.6
+25,Lando Bottas,36,Australia,Williams,0,101,96,147,2089,32,24,47.5
+26,Zhou Sargeant,42,UK,Alpine,6,85,6,57,287,59,86,5.9
+27,Lewis Guanyu,39,France,Haas,7,336,73,123,4375,25,69,32.2
+28,Nico Ricciardo,22,Brazil,McLaren,4,85,76,97,981,36,81,17.5
+29,Kevin Albon,34,Japan,Red Bull,6,248,95,130,3167,40,42,7.8
+30,Lewis Guanyu,31,Thailand,Ferrari,5,196,69,112,1301,3,33,18.0
+31,Pierre Piastri,30,Australia,Kick Sauber,4,308,46,100,3838,17,76,21.9
+32,Lewis Magnussen,26,Thailand,Alpine,6,41,42,74,1955,31,92,30.7
+33,Kevin Guanyu,30,Spain,Ferrari,6,313,90,93,1358,22,75,22.1
+34,Alex Hulkenberg,19,Canada,RB,0,129,13,29,716,46,85,20.7
+35,Sergio Schumacher,19,Monaco,McLaren,1,301,107,109,2551,30,16,12.6
+36,Daniel Verstappen,32,France,Williams,6,124,47,110,4976,30,49,41.0
+37,Esteban Perez,36,Monaco,Red Bull,1,267,24,104,324,2,91,29.9
+38,George Ocon,22,Canada,Haas,1,193,4,56,3149,30,33,17.5
+39,Valtteri Norris,20,France,Ferrari,5,157,88,94,4630,10,52,19.7
+40,Carlos Ricciardo,34,Finland,Kick Sauber,5,13,57,83,4488,58,92,4.3
+41,Alex Sargeant,37,Brazil,Haas,2,307,21,87,1103,57,44,41.2
+42,Logan Ocon,38,Monaco,Red Bull,4,217,46,87,1236,6,41,50.5
+43,Lewis Hulkenberg,26,Australia,Ferrari,5,239,89,149,2558,8,95,22.8
+44,Lewis Albon,26,UK,Aston Martin,4,324,77,123,2928,16,74,46.1
+45,Charles Gasly,36,Spain,Ferrari,6,271,82,109,3527,54,15,47.0
+46,Esteban Verstappen,32,Italy,Red Bull,7,168,115,164,2444,51,62,2.0
+47,Daniel Guanyu,37,Monaco,Aston Martin,7,175,36,48,3711,36,86,21.1
+48,Lewis Perez,21,Germany,Williams,4,326,59,96,539,20,7,1.7
+49,Max Hamilton,38,Brazil,Ferrari,0,12,110,139,376,35,75,43.7
+50,George Alonso,38,Japan,Ferrari,0,89,51,102,293,49,72,59.6
+51,Oscar Magnussen,37,Thailand,Haas,4,211,68,121,1250,29,39,23.4
+52,Kevin Bottas,23,Brazil,Kick Sauber,5,284,13,13,1015,43,12,16.5
+53,Fernando Perez,31,Mexico,Aston Martin,2,75,37,42,937,3,74,20.8
+54,Max Verstappen,22,China,Mercedes,6,207,114,150,4944,37,11,9.3
+55,Pierre Bottas,35,Italy,Red Bull,7,125,104,124,22,28,7,44.1
+56,Kevin Bottas,39,Mexico,Haas,7,255,98,107,4090,2,83,14.4
+57,Sergio Verstappen,26,Spain,Aston Martin,2,144,106,176,4394,12,87,40.7
+58,Sergio Guanyu,36,Australia,McLaren,2,36,93,129,1850,12,70,38.3
+59,George Schumacher,36,Germany,McLaren,7,49,72,141,1972,45,37,40.1
+60,Alex Magnussen,28,China,McLaren,4,47,113,177,717,31,9,31.7
+61,Fernando Magnussen,42,Japan,Mercedes,7,104,30,102,3434,12,59,57.4
+62,Nico Ricciardo,37,Australia,McLaren,1,259,100,130,1167,38,30,11.0
+63,Charles Verstappen,34,Canada,McLaren,6,85,10,36,3256,7,41,59.3
+64,Alex Leclerc,31,China,Aston Martin,4,330,15,45,891,30,50,9.4
+65,Max Hulkenberg,41,Italy,Williams,6,94,87,145,2856,13,0,13.4
+66,Oscar Guanyu,41,Spain,Ferrari,6,132,72,117,2621,12,48,11.4
+67,Yuki Tsunoda,18,Canada,Haas,3,58,40,116,897,58,86,53.2
+68,Lewis Russell,22,China,Haas,2,154,24,69,1644,29,82,26.0
+69,Sergio Verstappen,33,Germany,Haas,6,279,29,88,4363,20,7,9.5
+70,Sergio Hulkenberg,29,Mexico,Kick Sauber,3,339,88,120,1252,55,25,42.4
+71,Oscar Perez,29,Germany,Haas,6,62,34,110,3387,51,32,34.3
+72,Nico Guanyu,28,China,Mercedes,5,268,1,61,3474,56,38,3.9
+73,Lando Gasly,42,Monaco,RB,4,187,80,158,3000,37,49,1.7
+74,Lewis Albon,42,Spain,RB,6,59,91,156,242,57,96,11.7
+75,Esteban Alonso,39,Monaco,Alpine,1,105,90,148,3322,23,92,9.1
+76,Yuki Norris,25,Thailand,Williams,2,170,2,13,98,50,99,12.9
+77,Mick Hamilton,22,Italy,Williams,5,42,48,65,2255,32,29,43.9
+78,Oscar Magnussen,32,Japan,Mercedes,4,226,108,113,282,25,88,46.9
+79,Lando Albon,20,Brazil,Kick Sauber,6,52,27,104,4089,35,33,5.2
+80,Zhou Ocon,34,Netherlands,Kick Sauber,6,181,52,58,4337,35,3,42.2
+81,Oscar Albon,38,France,Ferrari,1,213,111,121,1939,51,54,13.0
+82,Yuki Magnussen,19,UK,Alpine,2,108,7,53,3958,21,26,53.7
+83,Alex Norris,18,Netherlands,Alpine,2,103,22,43,4126,20,78,17.8
+84,Lewis Russell,42,Monaco,Aston Martin,5,199,46,62,2373,59,13,17.1
+85,Kevin Albon,29,Mexico,Haas,7,264,53,84,3451,26,61,19.5
+86,Carlos Alonso,30,Spain,Haas,5,85,76,104,2373,20,86,29.1
+87,Valtteri Ricciardo,25,Netherlands,McLaren,5,306,51,95,1019,20,88,29.4
+88,Esteban Perez,35,Canada,Mercedes,1,169,64,111,4387,12,29,36.3
+89,Daniel Guanyu,34,Brazil,Williams,5,91,100,118,161,18,82,38.0
+90,Mick Schumacher,25,Australia,Kick Sauber,3,304,13,72,3987,17,47,32.4
+91,Esteban Hulkenberg,36,Brazil,RB,4,186,55,113,297,21,65,29.0
+92,Charles Guanyu,25,Japan,Alpine,6,185,3,57,2789,5,58,48.0
+93,Kevin Alonso,31,China,Ferrari,7,35,105,174,3587,60,97,24.0
+94,Nico Norris,34,Italy,RB,1,106,5,55,4599,20,49,18.2
+95,Max Norris,41,Italy,Haas,6,64,17,92,1241,44,67,37.4
+96,Esteban Tsunoda,26,Spain,Kick Sauber,4,243,103,130,3994,40,12,1.2
+97,Pierre Bottas,36,Germany,Mercedes,0,121,88,123,42,23,8,10.3
+98,Daniel Verstappen,38,Monaco,Red Bull,2,248,23,51,2368,24,35,44.2
+99,Valtteri Tsunoda,28,Canada,Ferrari,2,210,64,83,4891,13,41,53.2
+100,Kevin Verstappen,20,Finland,Kick Sauber,4,48,90,161,2494,37,45,14.8
+101,Carlos Piastri,22,Mexico,Haas,1,38,32,39,3705,36,74,41.0
+102,Mick Bottas,23,Japan,McLaren,2,109,40,95,3200,40,50,28.2
+103,Kevin Piastri,21,China,Alpine,3,117,109,120,3286,48,3,34.2
+104,Daniel Tsunoda,31,Thailand,Aston Martin,2,169,29,64,2983,29,12,50.6
+105,Zhou Ocon,24,Brazil,Ferrari,1,272,17,73,1158,34,64,38.1
+106,Kevin Leclerc,18,Canada,Ferrari,4,24,38,40,4652,49,71,9.0
+107,Pierre Hulkenberg,35,France,Williams,1,207,36,78,3083,54,93,54.9
+108,George Leclerc,41,Mexico,Haas,2,58,15,52,2203,17,12,29.9
+109,Fernando Alonso,32,Finland,Red Bull,2,42,6,20,2924,55,15,38.7
+110,Zhou Gasly,42,Canada,Kick Sauber,7,275,17,76,2015,33,69,23.7
+111,Esteban Guanyu,32,Thailand,Kick Sauber,6,157,62,125,113,35,11,12.9
+112,Charles Alonso,35,Finland,Kick Sauber,5,155,36,82,4921,56,40,30.7
+113,George Sargeant,20,UK,Kick Sauber,2,245,70,145,2371,6,10,44.1
+114,Charles Sargeant,42,Italy,Haas,0,144,42,109,2872,15,41,57.4
+115,Mick Schumacher,24,Brazil,McLaren,3,302,77,121,4475,37,53,27.5
+116,Kevin Verstappen,40,Netherlands,Ferrari,7,78,102,179,3447,56,76,54.8
+117,Mick Perez,35,Australia,Haas,6,38,29,82,4218,19,69,40.6
+118,Sergio Alonso,38,Monaco,Red Bull,4,259,37,40,3151,60,60,2.4
+119,Valtteri Hulkenberg,34,Thailand,RB,3,276,8,88,1503,58,89,9.2
+120,George Verstappen,28,Australia,Aston Martin,5,26,84,164,4662,32,38,38.5
+121,George Magnussen,33,Finland,Mercedes,5,143,101,161,1124,44,13,28.7
+122,George Leclerc,23,France,Williams,5,316,90,93,3014,53,97,43.4
+123,Esteban Russell,36,Thailand,Red Bull,0,178,120,138,644,18,93,39.7
+124,Charles Verstappen,32,France,Red Bull,5,169,110,136,1792,50,24,2.6
+125,Oscar Verstappen,40,France,Williams,5,102,73,123,3181,45,55,13.5
+126,Daniel Magnussen,37,Monaco,Alpine,7,131,49,74,1383,26,29,56.2
+127,Valtteri Russell,37,Canada,Aston Martin,2,346,44,55,731,21,93,41.6
+128,George Tsunoda,42,Australia,Haas,3,35,69,98,987,37,80,50.8
+129,Valtteri Magnussen,19,Japan,Haas,2,147,64,141,1866,13,80,1.2
+130,Nico Bottas,36,Brazil,Kick Sauber,7,87,119,127,9,4,80,35.9
+131,Kevin Russell,23,China,Red Bull,2,44,10,29,4496,36,59,5.7
+132,Oscar Albon,31,Spain,Alpine,3,326,22,67,1344,51,60,3.9
+133,Mick Alonso,38,Australia,Alpine,6,89,3,47,3867,26,63,7.0
+134,Daniel Albon,33,Japan,Williams,4,169,49,86,41,20,4,41.6
+135,Daniel Hamilton,39,Finland,Alpine,7,330,16,91,3177,53,22,12.0
+136,Mick Ocon,38,Brazil,Kick Sauber,4,208,1,4,1203,7,23,53.6
+137,George Hamilton,33,China,Kick Sauber,7,212,104,163,2255,41,76,35.8
+138,Logan Gasly,25,Brazil,Kick Sauber,3,235,66,98,1899,27,70,51.7
+139,Charles Perez,32,France,Mercedes,6,62,0,39,3548,19,70,54.6
+140,Pierre Russell,18,Italy,RB,4,86,53,102,1280,26,100,42.6
+141,Charles Hamilton,34,Japan,Red Bull,5,129,75,93,1060,33,78,43.4
+142,Lando Hulkenberg,38,Germany,Ferrari,1,17,76,107,950,1,4,24.0
+143,Nico Tsunoda,37,Germany,Mercedes,6,260,29,103,2417,42,89,29.2
+144,Zhou Guanyu,19,Finland,Williams,1,297,88,115,613,39,10,55.2
+145,Pierre Schumacher,31,Germany,Haas,2,301,46,47,3206,44,28,25.1
+146,Esteban Hulkenberg,19,Germany,RB,0,104,86,130,2172,58,62,39.1
+147,Yuki Magnussen,20,Spain,Haas,5,109,81,136,3648,3,5,18.1
+148,Pierre Hulkenberg,39,Germany,Williams,1,346,92,133,2780,43,18,2.0
+149,Charles Bottas,34,Germany,RB,7,251,32,40,3934,5,77,28.8
+150,Max Bottas,28,Mexico,Ferrari,4,48,96,138,163,57,74,23.5
+151,Lando Hamilton,42,Mexico,Aston Martin,2,324,30,55,1478,21,26,32.2
+152,Logan Schumacher,25,China,Mercedes,7,172,75,133,813,38,91,11.2
+153,Daniel Alonso,38,Canada,Kick Sauber,3,315,22,53,2526,59,59,11.0
+154,George Ocon,19,Spain,Mercedes,4,161,50,102,1233,24,25,14.0
+155,Max Bottas,30,Australia,Red Bull,0,343,72,112,3816,10,50,52.1
+156,Lewis Hamilton,41,Mexico,Ferrari,7,63,74,146,4970,53,18,29.5
+157,Carlos Ocon,36,Brazil,Williams,1,107,113,178,4032,22,29,18.9
+158,Logan Ricciardo,22,UK,Williams,1,267,29,66,850,30,22,47.3
+159,Lando Albon,26,China,Red Bull,5,10,106,131,2385,46,61,33.3
+160,Max Ocon,41,Monaco,Mercedes,3,189,114,171,3208,35,62,56.3
+161,Oscar Ricciardo,20,Finland,Kick Sauber,2,264,83,93,179,57,33,40.1
+162,Lando Guanyu,34,Canada,Mercedes,0,150,73,152,4911,9,31,22.2
+163,Mick Leclerc,36,France,Alpine,5,310,51,113,4587,9,16,37.5
+164,Valtteri Gasly,29,China,Mercedes,6,189,115,117,3410,59,22,8.3
+165,Sergio Alonso,37,Italy,Kick Sauber,3,136,20,37,1444,17,65,28.7
+166,Zhou Perez,26,Thailand,Kick Sauber,5,337,44,117,3818,29,24,42.7
+167,Kevin Piastri,38,Thailand,Haas,7,205,31,91,1352,19,0,24.4
+168,Kevin Ricciardo,19,Canada,Williams,3,203,53,108,4776,29,81,2.9
+169,Kevin Russell,40,UK,Mercedes,5,281,69,142,4964,49,18,43.6
+170,Esteban Albon,38,Thailand,Alpine,3,97,84,137,1527,32,83,43.6
+171,Nico Hamilton,26,France,Williams,5,318,76,140,3851,26,30,23.5
+172,Fernando Guanyu,36,Thailand,Red Bull,0,151,58,60,1894,41,16,27.8
+173,Valtteri Leclerc,34,Mexico,Ferrari,1,309,55,91,2107,53,54,2.1
+174,Max Ocon,38,Italy,Mercedes,5,167,46,98,1678,36,74,27.2
+175,Esteban Schumacher,18,Monaco,Williams,1,205,54,80,984,9,46,14.6
+176,Lando Sargeant,34,UK,Aston Martin,3,168,65,103,3129,28,16,36.0
+177,Alex Hamilton,36,France,Mercedes,6,150,48,124,3715,30,62,14.4
+178,Sergio Perez,27,Italy,Mercedes,3,300,28,58,324,22,66,51.2
+179,Lando Tsunoda,41,Finland,Aston Martin,1,327,86,124,3734,26,100,3.7
+180,Charles Gasly,25,Netherlands,Aston Martin,4,310,11,77,2582,55,2,22.2
+181,Valtteri Piastri,38,Italy,Mercedes,1,75,0,50,1053,48,7,11.8
+182,Lewis Piastri,19,Australia,Red Bull,7,128,13,65,2114,47,2,58.7
+183,Valtteri Gasly,38,Germany,McLaren,1,61,8,44,4668,3,84,53.5
+184,Esteban Ocon,33,Germany,Mercedes,2,100,2,44,1938,49,10,53.9
+185,Lando Gasly,37,Canada,Alpine,7,69,102,177,1045,46,55,27.2
+186,George Hulkenberg,41,Japan,Ferrari,5,308,100,135,414,16,42,17.7
+187,Oscar Tsunoda,34,Australia,Williams,2,125,111,123,3126,41,79,33.8
+188,Oscar Leclerc,20,Finland,McLaren,3,20,83,146,3067,47,76,56.5
+189,Valtteri Norris,34,Australia,Ferrari,1,163,46,67,3985,43,92,53.8
+190,Pierre Hulkenberg,34,Thailand,Haas,3,203,11,70,165,19,55,32.2
+191,Zhou Piastri,21,Thailand,Alpine,7,44,88,95,1463,45,5,42.3
+192,Daniel Piastri,19,UK,Red Bull,6,341,76,132,3515,53,61,45.9
+193,Oscar Norris,41,Italy,Mercedes,2,348,9,60,3594,18,79,54.2
+194,Mick Perez,40,UK,Williams,6,254,24,66,3707,36,32,44.3
+195,Fernando Gasly,26,Netherlands,McLaren,1,307,37,69,3418,33,2,13.7
+196,Mick Guanyu,30,Brazil,Alpine,0,152,119,162,3236,2,50,46.6
+197,Pierre Hulkenberg,38,France,Alpine,5,177,59,86,1203,2,21,18.0
+198,Logan Sainz,20,Canada,Haas,0,234,3,31,4001,33,35,37.8
+199,Fernando Magnussen,33,Australia,Alpine,0,177,15,26,2342,7,22,6.4
+200,Daniel Perez,31,Germany,Ferrari,7,45,100,139,2235,9,41,29.0

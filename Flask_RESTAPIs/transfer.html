@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bank Money Transfer</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        body {
+            background: #f2f5f9;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            width: 420px;
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0px 0px 20px rgba(0, 0, 0, .15);
+        }
+
+        h2 {
+            text-align: center;
+            color: #0b5ed7;
+            margin-bottom: 25px;
+        }
+
+        .input-box {
+            margin-bottom: 18px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+        }
+
+        input {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            font-size: 16px;
+        }
+
+        input:focus {
+            outline: none;
+            border: 1px solid #0b5ed7;
+        }
+
+        button {
+            width: 100%;
+            padding: 13px;
+            background: #0b5ed7;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 18px;
+            cursor: pointer;
+            transition: .3s;
+        }
+
+        button:hover {
+            background: #084298;
+        }
+
+        #result {
+            margin-top: 20px;
+            text-align: center;
+            font-size: 18px;
+            font-weight: bold;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h2>💰 Bank Transfer</h2>
+
+        <div class="input-box">
+            <label>From Account</label>
+            <input type="number" id="fromacc">
+        </div>
+
+        <div class="input-box">
+            <label>To Account</label>
+            <input type="number" id="toacc">
+        </div>
+
+        <div class="input-box">
+            <label>Amount</label>
+            <input type="number" id="amount">
+        </div>
+
+        <button onclick="transferMoney()">
+            Transfer Money
+        </button>
+
+        <div id="result"></div>
+
+    </div>
+
+    <script>
+
+        async function transferMoney() {
+
+            let fromacc = document.getElementById("fromacc").value;
+            let toacc = document.getElementById("toacc").value;
+            let amount = document.getElementById("amount").value;
+
+            if (fromacc == "" || toacc == "" || amount == "") {
+                alert("Please fill all fields");
+                return;
+            }
+
+            let formData = new URLSearchParams();
+
+            formData.append("fromacc", fromacc);
+            formData.append("toacc", toacc);
+            formData.append("amount", amount);
+
+            try {
+
+                let response = await fetch("http://127.0.0.1:5000/bank/transfer", {
+
+                    method: "PUT",
+
+                    headers: {
+                        "Content-Type": "application/x-www-form-urlencoded"
+                    },
+
+                    body: formData
+
+                });
+
+                let data = await response.json();
+
+                document.getElementById("result").innerHTML = data.message;
+
+                if (data.message.includes("Successful")) {
+                    document.getElementById("result").style.color = "green";
+                }
+                else {
+                    document.getElementById("result").style.color = "red";
+                }
+
+            }
+
+            catch (error) {
+
+                document.getElementById("result").innerHTML = "Server Error";
+                document.getElementById("result").style.color = "red";
+
+            }
+
+        }
+
+    </script>
+
+</body>
+
+</html>
